@@ -1,0 +1,39 @@
+header {
+    width: 100%;
+    height: 100px;
+    color: rgb(241, 78, 56);
+    background-color: rgb(55, 110, 47);
+}
+
+div {
+    width: 55%;
+    background-color: rgb(218, 29, 29);
+}
+
+#mi {
+    background-color: rgb(23, 92, 148);
+}
+
+#dc {
+    background-color: rgb(221, 65, 18);
+}
+
+#csk {
+    background-color: yellow;
+}
+
+#mi1 {
+    text-align: center;
+    color: rgb(31, 0, 71);
+    text-decoration-color: violet;
+    text-decoration: underline;
+}
+
+.cls {
+    color: rgb(185, 23, 50);
+    font-weight: 900;
+    border: 2cm;
+    border-top-left-radius: 20px;
+    border-color: yellow;
+    font-family: times new roman;
+}
