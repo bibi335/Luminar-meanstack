@@ -1,0 +1,61 @@
+        h1 {
+            font-family: 'Potta One', cursive;
+            text-align: center;
+            margin-top: 10px;
+            text-decoration: underline;
+        }
+        
+        #first {
+            width: 12%;
+            background-color: violet;
+            border-style: solid;
+            border-color: black;
+            border-width: 1%solid;
+            margin-left: 12%;
+            height: 80%;
+            position: absolute;
+        }
+        
+        #second {
+            width: 12%;
+            background-color: indigo;
+            border-style: solid;
+            border-color: black;
+            border-width: 1% solid;
+            margin-left: 24%;
+            height: 80%;
+            position: absolute;
+        }
+        
+        #third {
+            width: 12%;
+            background-color: blue;
+            border-style: solid;
+            border-color: black;
+            border-width: 3% solid;
+            margin-left: 36%;
+            height: 80%;
+            position: absolute;
+        }
+        
+        #fourth {
+            width: 12%;
+            background-color: green;
+            border-style: solid;
+            border-color: black;
+            border-width: 3% solid;
+            margin-left: 48%;
+            height: 80%;
+            position: absolute;
+        }
+        
+        #fifth {
+            width: 12%;
+            background-color: yellow;
+            border-style: solid;
+            border-color: black;
+            border-width: 3% solid;
+            margin-left: 60%;
+            height: 80%;
+            position: absolute;
+        }
