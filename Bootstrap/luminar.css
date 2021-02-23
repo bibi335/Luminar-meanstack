@@ -1,0 +1,43 @@
+header {
+    background-color: rgb(43, 106, 224);
+    width: 100%;
+    padding: .01cm;
+    color: white;
+}
+
+.nav-link {
+    color: black;
+}
+
+.first {
+    margin-top: 7%;
+}
+
+.heading {
+    color: #5e068a;
+    font-weight: 700;
+}
+
+span {
+    color: #5e068a99;
+}
+
+button {
+    background-color: #5e068a;
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    color: rgba(247, 204, 14, 0.733);
+    border: 2px solid #5e068a;
+}
+
+button:hover {
+    background-color: #ffffff;
+    color: #5e068a;
+}
+
+.back {
+    background-color: #b9e0e0;
+    height: 30%;
+}

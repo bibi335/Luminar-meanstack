@@ -1,0 +1,15 @@
+header {
+    height: 60px;
+    background-color: blue;
+    font-size: x-large;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+    color: yellow;
+}
+
+.form-label {
+    font-size: large;
+    font-weight: bold;
+    color: brown;
+}
